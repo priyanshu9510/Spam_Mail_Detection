@@ -5,7 +5,7 @@ Spam Mail Detection is an end-to-end machine learning project designed to automa
 
 ### Dataset
 
-<a href="https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection">SMS Spam Collection Dataset (UCI)</a>
+<a href="https://github.com/priyanshu9510/Spam_Mail_Detection/blob/main/spam.csv">SMS Spam Collection Dataset (UCI)</a>
 
 The dataset consists of labeled email/message text data categorized as spam or non-spam, commonly used for spam classification tasks.
 
